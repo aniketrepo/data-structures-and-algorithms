@@ -11,7 +11,15 @@ A record of my DSA journey.
 	- Object Oriented Programming
 	- Control over system resources and memory
 	- Performance: Efficiency and speed
-- Uses of C++:
+- Uses of C++
 	- System/Software development
 	- Game Development
 	- Real time systems
+### Compilation Process
+- A code undergoes compilation process to get converted into machine-understandable format so that it can be executed.
+- **Overview of Compilation:** Turning source code into executable code.
+- **Steps in the Compilation Process:** 
+	- Preprocessing
+	- Compilation
+	- Assembly
+	- Linking
