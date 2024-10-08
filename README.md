@@ -23,7 +23,7 @@ A record of my DSA journey.
 	- Compilation
 	- Assembly
 	- Linking
-### Low and High Level Languages
+### High and Low Level Languages
 - **High Level Language:** High Level Languages are used for writing programs & software that can be understood by humans and computers. They are easier to understand for humans because they use a lot of symbols letter phrases to represent logic and instructions in a program.
 - **Low Level Language:** Low Level Languages are closer to hardware as compared to High Level Languages instead of software. They provide little or no abstraction from the machine instructions and that's why they allow programmers to manipulate hardware elements like register, memory, etc. They are often used for designing systems, such as developing operating systems, device drivers and embedded systems.
 
