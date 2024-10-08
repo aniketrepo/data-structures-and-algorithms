@@ -18,7 +18,7 @@ A record of my DSA journey.
 ### Compilation Process
 - A code undergoes compilation process to get converted into machine-understandable format so that it can be executed.
 - **Overview of Compilation:** Turning source code into executable code.
-- **Steps in the Compilation Process:** 
+- Steps in the Compilation Process: 
 	- Preprocessing
 	- Compilation
 	- Assembly
