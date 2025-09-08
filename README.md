@@ -2,6 +2,3 @@
 A record of my DSA journey.
 
 #
-- [Hello World](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/HelloWorld.cpp)
-- [Taking Input](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/TakingInput.cpp)
-- 
