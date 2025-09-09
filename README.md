@@ -5,3 +5,4 @@
 - If else
 	- [Age Limit](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/IfElse.cpp)
 	- [School Grading System](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/SchoolGradingSystem.cpp)
+	- [Job Eligibility](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/JobEligiblity.cpp)
