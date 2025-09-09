@@ -3,3 +3,4 @@
 - [Taking Input](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/TakingInput.cpp)
 - [Data Types](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/DataType.cpp)
 - [If Else](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/IfElse.cpp)
+	- [School Grading System](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/SchoolGradingSystem.cpp)
