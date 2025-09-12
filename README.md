@@ -11,4 +11,4 @@
 	- [Calculator](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/Calculator.cpp)
 - Array
 	- [One Dimensional Array](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/1DArray.cpp)
-	- []
+	- [Two Dimensional Array](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/2DArray.cpp)
