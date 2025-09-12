@@ -9,3 +9,6 @@
 - Switch Statement
 	- [Day of the week](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/DayOfWeek.cpp)
 	- [Calculator](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/Calculator.cpp)
+- Array
+	- [One Dimensional Array](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/1DArray.cpp)
+	- []
