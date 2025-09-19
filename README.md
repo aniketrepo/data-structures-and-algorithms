@@ -12,3 +12,5 @@
 - Array
 	- [One Dimensional Array](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/1DArray.cpp)
 	- [Two Dimensional Array](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/2DArray.cpp)
+- [For Loop](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/ForLoop.cpp)
+- [While Loop](https://github.com/aniketrepo/data-structures-and-algorithms/blob/main/code/WhileLoop.cpp)
